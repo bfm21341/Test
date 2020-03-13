@@ -1,1 +1,1 @@
-print ('hello Python & Git')
+print ('hello Python & Git ver.01')
